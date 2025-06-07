@@ -26,7 +26,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC04nROIJrY22Gl2aFqKcdqQ \"S
 https://www.youtube.com/feeds/videos.xml?channel_id=UCD-oR9vkso3JPPKK8-CWqgQ \"Zoomer Historian\"
 https://www.privacyguides.org/articles/feed_rss_created.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUP5UhD6cMfpN4vxW3FYJLQ \"Sam Bent\"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZXW8E1__d5tZb-wLFOt8TQ \"Bog\"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZXW8E1__d5tZb-wLFOt8TQ \"Bog\""
 
 ### FUNCTIONS ###
 
